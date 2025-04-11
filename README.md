@@ -104,4 +104,3 @@ Let's build something cool together!
 
 ---
 
-<p align="center">Made with ❤️ by Bhanudas Hegaje</p>
