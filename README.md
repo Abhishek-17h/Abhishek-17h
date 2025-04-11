@@ -101,7 +101,7 @@ Let's build something cool together!
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Zsh-89e051?style=for-the-badge&logo=gnu-bash&logoColor=black" />
 </p>
----
 
+---
 
 <p align="center">Made with ❤️ by Bhanudas Hegaje</p>
