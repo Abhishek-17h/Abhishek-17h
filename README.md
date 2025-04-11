@@ -22,8 +22,8 @@
 ---
 
 ### 📫 How to reach me:
-- **LinkedIn**: [YourLinkedIn](www.linkedin.com/in/bhanudas-hegaje)
-- **Twitter**: [@yourhandle](https://twitter.com/imveer4567)
+- **LinkedIn**: [Bhanudas Hegaje](www.linkedin.com/in/bhanudas-hegaje)
+- **Twitter**: [@imveer4567](https://twitter.com/imveer4567)
 - **Email**: abhishekhegaje1702@gmail.com
 
 ---
