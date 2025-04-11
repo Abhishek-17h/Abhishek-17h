@@ -41,17 +41,10 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YourGitHubUsername&theme=algolia" />
-</p>
-
----
 
 ## 🛠️ Languages and Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,react,nextjs,html,css,tailwind,bootstrap,mongodb,postgres,python,cpp,firebase,jquery,git,github,vscode,heroku,netlify,xd,postman,shell" />
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,react,nextjs,html,css,tailwind,bootstrap,mongodb,postgres,python,cpp,git,github,vscode,heroku,netlify,xd,postman,shell,zsh,linux" />
 </p>
 
