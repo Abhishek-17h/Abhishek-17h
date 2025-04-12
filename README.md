@@ -34,7 +34,7 @@
 - ☁️ Exploring DevOps tools like Docker and Kubernetes
 - 🏗️ Learning System Design and Architecture
 - 🤖 Exploring the world of Artificial Intelligence and Machine Learning
-- 
+
 ---
 
 ### 🤝 Let’s Collaborate
@@ -44,13 +44,6 @@ I'm open to:
 - 🧠 Brainstorming disruptive products
 
 Let's build something cool together!
-
----
-
-### 🧠 Mindset & Motivation
-> _“Taking one step at a time to be more mindful of my journey.”_
-
-> _“Consistency beats intensity.”_
 
 ---
 
