@@ -30,10 +30,10 @@
 
 ### 💡 What I'm Working On
 - ⚙️ Real-world MERN stack projects
-- 📚 Deepening my knowledge of Data Structures & Algorithms
-- ☁️ Exploring DevOps tools like Docker and Kubernetes
-- 🏗️ Learning System Design and Architecture
-- 🤖 Exploring the world of Artificial Intelligence and Machine Learning
+- 📚 Data Structures & Algorithms
+- ☁️ DevOps tools like Docker and Kubernetes
+- 🏗️ System Design and Architecture
+- 🤖 Artificial Intelligence and Machine Learning
 
 ---
 
