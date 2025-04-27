@@ -28,15 +28,6 @@
 
 ---
 
-### 💡 What I'm Working On
-- ⚙️ Real-world MERN stack projects
-- 📚 Data Structures & Algorithms
-- ☁️ DevOps tools like Docker and Kubernetes
-- 🏗️ System Design and Architecture
-- 🤖 Artificial Intelligence and Machine Learning
-
----
-
 ### 🤝 Let’s Collaborate
 I'm open to:
 - 🤝 Open Source Contributions  
@@ -52,19 +43,6 @@ Let's build something cool together!
 - 📬 **Email**: [abhishekhegaje1702@gmail.com](mailto:abhishekhegaje1702@gmail.com)  
 - 🐦 **Twitter**: [@imveer4567](https://twitter.com/imveer4567)  
 - 💼 **LinkedIn**: [Bhanudas Hegaje](https://www.linkedin.com/in/bhanudas-hegaje)
-
----
-
-## 🖥️ GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abhishek-17h&show_icons=true&theme=radical&border_radius=10&count_private=true" width="47%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-17h&layout=compact&theme=radical&border_radius=10" width="47%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Abhishek-17h&theme=radical&hide_border=false&border_radius=10" />
-</p>
 
 ---
 
